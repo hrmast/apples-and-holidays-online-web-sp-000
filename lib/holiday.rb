@@ -80,4 +80,5 @@ def all_holidays_with_bbq(holiday_hash)
       supplies.include?("BBQ")
     }.keys
   }.flatten
-end	end
+  end	
+end
